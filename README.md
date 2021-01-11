@@ -1,5 +1,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h1 align="center">
 Lifestyle
@@ -12,8 +14,8 @@ Lifestyle
     Navigate into your new site’s directory and start it up.
 
     ```zsh
-    git clone https://github.com/impulse/gatsby-typescript-tailwind
-    cd gatsby-typescript-tailwind/
+    git clone https://github.com/Machine-Servant/lifestyle
+    cd lifestyle
     gatsby develop
     ```
 
@@ -23,7 +25,7 @@ Lifestyle
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `gatsby-typescript-tailwind` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
+    Open the `lifestyle` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
 
 ## 🎓 Learning Gatsby
 

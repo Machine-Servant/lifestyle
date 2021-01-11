@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-typescript-tailwind",
+  "name": "lifestyle",
   "private": false,
-  "description": "A gatsby starter kit using TypeScript and Tailwind CSS",
+  "description": "Track my lifestyle, weight loss, and exercise journey",
   "version": "0.1.247",
-  "author": "Florentin Eckl <ecklf@icloud.com>",
+  "author": "Evan Stern <evanstern@machineservant.com>",
   "dependencies": {
     "react": "17.0.1",
     "react-dom": "17.0.1",
@@ -49,9 +49,8 @@
   "keywords": [
     "gatsby",
     "typescript",
-    "tailwind",
-    "tailwind css",
-    "starter"
+    "lifestyle",
+    "website"
   ],
   "license": "MIT",
   "scripts": {
@@ -66,10 +65,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/impulse/gatsby-typescript-tailwind"
+    "url": "https://github.com/Machine-Servant/lifestyle"
   },
   "bugs": {
-    "url": "https://github.com/impulse/gatsby-typescript-tailwind/issues"
+    "url": "https://github.com/Machine-Servant/lifestyle/issues"
   },
   "husky": {
     "hooks": {
@@ -79,12 +78,10 @@
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
       "prettier --write",
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ],
     "*.{json,md}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   }
 }
