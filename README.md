@@ -1,12 +1,8 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-<p align="center">
-  <a href="https://gatsby-typescript-tailwind.netlify.com/">
-    <img alt="Gatsby TypeScript Tailwind" src="./docs/logo.svg" width="230" />
-  </a>
-</p>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h1 align="center">
-Gatsby TypeScript Tailwind
+Lifestyle
 </h1>
 
 ## 🚀 Quick start
@@ -46,12 +42,10 @@ MIT
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Jarrku"><img src="https://avatars3.githubusercontent.com/u/7694752?v=4" width="100px;" alt="Simon VDB"/><br /><sub><b>Simon VDB</b></sub></a><br /><a href="https://github.com/impulse/gatsby-typescript-tailwind/commits?author=Jarrku" title="Code">💻</a></td>
-  </tr>
-</table>
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
