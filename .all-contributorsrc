@@ -9,6 +9,18 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "evanstern",
+      "name": "Evan Stern",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/264836?v=4",
+      "profile": "https://www.machineservant.com/",
+      "contributions": [
+        "blog",
+        "code",
+        "design"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
